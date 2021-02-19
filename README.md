@@ -22,8 +22,7 @@ Lære Entitiy
 
 Tidsestimat:
 
-Opgave	Estimeret	Realiseret
-React – Lave lister		
+Opgave	Estimeret	Realiseret	
 MongoDB		
 -	Install	4 Timer	
 -	Access	24 Timer	
@@ -34,5 +33,6 @@ MongoDB
 -	Delete	12 Timer	
 -	Users	16 Timer	
 -	Læring - Dokumentation	30 Timer	
+React
 To-Do-Liste		
 HTML & CSS – SPA		
